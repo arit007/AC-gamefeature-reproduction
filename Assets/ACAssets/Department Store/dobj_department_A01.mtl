@@ -1,0 +1,52 @@
+# Blender MTL File: 'AnimalCrossingBuilding.blend'
+# Material Count: 5
+
+newmtl ev_m_mat
+Ns -3.921569
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd gl.png
+
+newmtl mL_department_S_mat
+Ns -3.921569
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd dobj_department_A01.png
+
+newmtl mL_department_balloon_mat
+Ns -3.921569
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd dobj_department_A01_balloon.png
+
+newmtl mL_department_mat
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd dobj_department_A01.png
+
+newmtl mL_department_signboard_mat
+Ns -3.921569
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd dobj_department_A01_signboard.png
